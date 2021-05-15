@@ -107,22 +107,34 @@ ________
  - Скопировала файл ```/usr/include/sys/io.h``` в домашний каталог и назвала
 его equipment. 
 
+![файл equipment](screen/2.1.png){ #fig:001 width=70% }
+
  - В домашнем каталоге создала директорию ```~/ski.plases```.
 
+![создание диретокрии](screen/2.2.png){ #fig:001 width=70% }
 
 - Переместила файл equipment в каталог ```~/ski.plases```.
  
- 
+![перемещение в каталог](screen/2.3.png){ #fig:001 width=70% } 
  
  - Переименовала файл ~/ski.plases/equipment в ```~/ski.plases/equiplist```.
 
-
+![перемещение по адресу ](screen/2.4.png){ #fig:001 width=70% }
 
 - Создала в домашнем каталоге файл abc1 и скопировала его в каталог ```~/ski.plases```, назвала его ```equiplist2```.
- - Создала каталог с именем equipment в каталоге ```~/ski.plases```.
- - Переместила файлы ~/ski.plases/equiplist и equiplist2 в каталог ```~/ski.plases/equipment```.
- - Создала и переместила каталог ```~/newdir``` в каталог ```~/ski.plases``` и назовла его ```plans```.
  
+ ![файл abc1](screen/2.5.png){ #fig:001 width=70% }
+- Создала каталог с именем equipment в каталоге ```~/ski.plases```.
+
+![каталог equipment](screen/2.6.png){ #fig:001 width=70% }
+
+- Переместила файлы ~/ski.plases/equiplist и equiplist2 в каталог ```~/ski.plases/equipment```.
+
+![перемещение файлов в каталог ](screen/2.7.png){ #fig:001 width=70% }
+
+- Создала и переместила каталог ```~/newdir``` в каталог ```~/ski.plases``` и назовла его ```plans```.
+ 
+ ![~/newdir](screen/2.8.png){ #fig:001 width=70% }
  
 3. Определите опции команды chmod, необходимые для того, чтобы присвоить перечисленным ниже файлам выделенные права доступа, считая, что в начале таких прав нет:
 3.1. drwxr--r-- ... australia
