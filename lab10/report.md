@@ -71,7 +71,7 @@ header-includes:
 
 ![ввод команды emacs](screen/1.1.png){ #fig:001 width=70% } 
 
-***Рис.1 "emacs"*** 
+***Рис.1 "ввод команды emacs"*** 
 
 
 ![вход в emacs](screen/1.2.png){ #fig:001 width=70% } 
