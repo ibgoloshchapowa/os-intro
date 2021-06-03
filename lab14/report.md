@@ -185,7 +185,9 @@ info breakpoints
 
 
 – Посмотрела, чему равно на этом этапе значение переменной Numeral, введя:
+
 print Numeral
+
 На экран должно быть выведено число 5.
 
 ![print Numeral](screen/6.8.png)
