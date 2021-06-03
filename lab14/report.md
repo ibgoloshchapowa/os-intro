@@ -195,6 +195,7 @@ print Numeral
 *Рис.16 "print Numeral"*
 
 – Сравнила с результатом вывода на экран после использования команды:
+
 display Numeral
 
 ![display Numeral](screen/6.9.png)
@@ -202,7 +203,9 @@ display Numeral
 *Рис.17 "display Numeral"*
 
 – Убрала точки останова:
+
 info breakpoints
+
 delete 1
 
 ![delete 1](screen/6.10.png)
@@ -210,7 +213,7 @@ delete 1
 *Рис.18 "delete 1"*
 
 
-7. С помощью утилиты splint попробуйте проанализировать коды файлов
+7. С помощью утилиты splint попробовала проанализировать коды файлов
 calculate.c и main.c.
 
 
