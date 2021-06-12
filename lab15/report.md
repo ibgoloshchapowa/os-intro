@@ -82,14 +82,14 @@ header-includes:
 
 Файл Client.c:
 
-![Client.c:](screen/2.1.png)
+![Client.c:](screen/2.1клиент.png)
 
 *Рис.2 "Client.c"*
 
 
 Файл Server.c:
 
-![Server.c](screen/3.1.png)
+![Server.c](screen/3.1 server.png)
 
 *Рис.3 "Server.c"*
 
@@ -98,6 +98,13 @@ header-includes:
 ![common.h](screen/1.1.png)
 
 *Рис.3 "common.h"*
+
+Файл MakeFile:
+
+![MakeFile](screen/4.1make.png)
+
+*Рис.3 "MakeFile"*
+
 
 
 написала аналогичные программы, внеся следующие изменения:
