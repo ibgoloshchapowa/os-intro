@@ -2,7 +2,7 @@
 # Front matter
 lang: ru-RU
 title: "Отчёт по лабораторной работе №15"
-subtitle: ""
+subtitle: "Именованные каналы"
 author: "Голощапова Ирина Борисовна"
 
 # Formatting
@@ -48,17 +48,17 @@ header-includes:
 
 # Цель работы
 
-
+Приобретение практических навыков работы с именованными каналами
 
 
 # Библиография
-[Командные файлы в Linux](https://sgww.livejournal.com/8836.html)
+[Именованные файлы в Linux](https://losst.ru/tipy-fajlov-v-linux)
 
 
-[Википедия - Командная оболочка](https://ru.wikipedia.org/wiki/Командная_оболочка_Unix)
+[goto-linux](https://goto-linux.com/2019/11/6/определение-типов-фаилов-в-linux/)
 
 
-[Splint](https://splint.org/linux.html)
+[FIFO именованные файлы](https://www.opennet.ru/docs/RUS/linux_parallel/node17.html)
 
 
 # Выполнение лабораторной работы
