@@ -89,7 +89,7 @@ header-includes:
 
 Файл Server.c:
 
-![Server.c](screen/3.1 server.png)
+![Server.c](screen/3.1.png)
 
 *Рис.3 "Server.c"*
 
